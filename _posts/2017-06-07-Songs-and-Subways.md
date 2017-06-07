@@ -27,6 +27,6 @@ Today's song is the well-known lead single off of Frank Ocean's _Blond_, "Nikes"
 
 >We laid out on this wet floor / Away turf, no Astro / Mesmerized how the strobes glow / Look at all the people feet dance.
 
-![Shanghai Night](./images/shanghainight.jpg?raw=true)
+![Shanghai Night](./images/shanghainight.jpg =100x100)
 
 I'll try to put it at the beginning next time. And of course, don't be a stranger. Feel free to interact with me with any of the cool buttons on this site. See ya soon.
