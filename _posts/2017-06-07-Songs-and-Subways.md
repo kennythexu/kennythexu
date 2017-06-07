@@ -3,7 +3,7 @@ layout: post
 title: "Subways and Strangers"
 author: "Kenny Xu"
 categories: journal
-tags: [documentation,sample]
+tags: [introduction,subway,china]
 image:
   feature: subway.jpg
   teaser: subway_teaser.jpg
@@ -19,7 +19,7 @@ And it's not just listening to music. I can't remember a time when I couldn't re
 
 Every blog post, I'm gonna try to introduce a sonsg with the post. Something that maybe can speak to the content, or maybe a song that's stuck on replay at the moment, or even just one that's stuck out to me during my time using public transit. Who knows? 
 
-All I know is that I encourage you to put on the song in the background and read for a little bit.
+All I know is that I encourage you to put the song on in the background and read for a little bit.
 
 I've got plenty time for introspection. I figure publically sharing my thoughts isn't the worst thing in the world. In fact, I think it could be a good thing.
 
@@ -27,6 +27,6 @@ Today's song is the well-known lead single off of Frank Ocean's _Blond_, "Nikes"
 
 >We laid out on this wet floor / Away turf, no Astro / Mesmerized how the strobes glow / Look at all the people feet dance.
 
-![Shanghai Night](shanghainight.jpg)
+![Shanghai Night](./images/shanghainight.jpg)
 
 I'll try to put it at the beginning next time. And of course, don't be a stranger. Feel free to interact with me with any of the cool buttons on this site. See ya soon.
