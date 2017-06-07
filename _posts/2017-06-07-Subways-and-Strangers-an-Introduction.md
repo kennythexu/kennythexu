@@ -11,6 +11,7 @@ image:
   creditlink: ""
 ---
 
+hdbdbs
 Every day I take the subway to work. Once at 9am, and then at rush hour 6pm I cram myself shoulder-to-shoulder with hundreds of strangers on the subway straight back to the apartment I'm living in on Weining Road. Some of you might not know, but I'm currently in Shanghai, China (aka [Hoontopia](http://www.barstoolsports.com/barstoolu/if-you-dont-smoke-cigarettes-in-china-you-might-as-well-be-wearing-a-sign-that-says-im-a-virgin/)) right now working as an intern for Aston Martin. I'm living by myself for two months, so I have a lot of free time, and this blog I'm writing is a start to conquering boredom, bright flashing lights, and the _humongous amount_ of people here. Don't get me wrong though. This place is awesome and honestly, far more advanced than much of the U.S.—I'll probably get to that in another post.
 
 Well while I'm on the subway (officially called the Metro), I always got my headphones in, listening to any kind of music—from the early 2000s British rock albums of Coldplay's _Parachutes_ to the like of Kendrick Lamar's _DAMN_. For me, music is everywhere.
