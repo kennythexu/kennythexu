@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Subways and Strangers—an Introduction"
+title: "Subways and Strangers - an Introduction"
 author: "Kenny Xu"
 categories: journal
 tags: [introduction,subway,china]
