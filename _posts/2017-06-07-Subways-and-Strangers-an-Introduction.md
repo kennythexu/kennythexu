@@ -19,7 +19,7 @@ The name of this blog is "Songs and Stories" because I realize that for much of 
 
 And it's not just listening to music. I can't remember a time when I couldn't read music. It's kind of like speaking English. I can't remember a time when I didn't know how to speak English. In the same way, I couldn't tell you a time that I couldn't read music. I picked up piano when I was around 6, and later I learned to play violin and guitar, making music such a significant and integral part of my life.
 
-Every blog post, I'm gonna try to introduce a sonsg with the post. Something that maybe can speak to the content, or maybe a song that's stuck on replay at the moment, or even just a song that's stuck out to me during my time using public transit for instance. Who knows?
+Every blog post, I'm gonna try to introduce a song with the post. Something that maybe can speak to the content, or maybe a song that's stuck on replay at the moment, or even just a song that's stuck out to me during my time using public transit for instance. Who knows?
 
 All I know is that I encourage you to put the song on in the background and join me in my thoughts. I've got plenty time for introspection and reflection, and maybe you do too. Maybe my publically-shared thoughts might be interesting, or helpful, or exciting, or surprising, or... whatever. I just appreciate you reading.
 
