@@ -5,8 +5,8 @@ author: "Kenny Xu"
 categories: journal
 tags: [technology,china]
 image:
-  feature: subway.jpg
-  teaser: subway_teaser.jpg
+  feature: mountains.jpg
+  teaser: mountains_teaser.jpg
   credit:
   creditlink: ""
 ---
