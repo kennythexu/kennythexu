@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Why China's mobile payment infrastracture is light years ahead of the U.S."
+title: "Why China's mobile payment market is light years ahead of the U.S."
 author: "Kenny Xu"
 categories: journal
 tags: [technology,china]
