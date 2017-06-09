@@ -13,7 +13,7 @@ image:
 >It is a bright object and it's obviously rotating because it's flashing, it's way out in the distance, certainly rotating in a very rhythmic fashion because the flashes come around almost on time.
 
 <div style="text-align:right">    
-  <a href="https://open.spotify.com/track/2KHRENHQzTIQ001nlP9Gdc">""Contact" - Daft Punk"</a>
+  <a href="https://open.spotify.com/track/2KHRENHQzTIQ001nlP9Gdc">—"Contact" - Daft Punk</a>
 </div>
 
 The word "advanced" comes to my mind when I think of China's super apps known as WeChat and Alipay, or _Weixin_ and _Zhifubao_ and as they are known by the locals.
