@@ -10,3 +10,5 @@ image:
   credit:
   creditlink: ""
 ---
+
+The mystery of Raffles City is a little known mystery. Many walk through the city gates every day not knowing that there's a mystery floating in the midst.
