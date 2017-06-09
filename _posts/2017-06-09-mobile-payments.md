@@ -28,7 +28,7 @@ In the U.S., we've got some mobile payment systems. We have Venmo, but it's not 
 
 But at least while I'm in China, I can bask in the glory of the mobile payment future.
 
-![Umbrellas](/kennythexu/images/umbrellas.jpg "Umbrellas WOW")
+![Umbrellas](/kennythexu/images/umbrellas.JPG "Umbrellas WOW")
 
 If you have good enough credit (because you can pay bills and other stuff), you even can rent an umbrella from one of these many stations around Shanghai. There's also portable chargers that you can take and use if your credit is good enough.
 
