@@ -5,6 +5,7 @@ author:
   twitter:  kennythexu
 
 menu:
+- {name: 'About', url: 'About.html'}
 - {name: 'Writing', url: 'writing.html'}
 - {name: 'Contact', url: 'contact.html'}
 
