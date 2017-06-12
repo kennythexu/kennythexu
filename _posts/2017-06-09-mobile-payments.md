@@ -24,25 +24,25 @@ With these apps, you can even [pay your own water bill](https://www.beijing-kids
 
 As a result, your average Chinese citizen doesn't have to press the home button to do what Americans have to do in a whole bunch of different apps.
 
-Now in the U.S., we've got some mobile payment systems, too, but none of them live up to what they have in China. We have Venmo, but it's not widely-used by vendors and seems exclusively used by college students. We also have Apple Pay, but at least how I see it, it still seems rather "gimmicky" and isn't something that—in the near future at least—will be as pervasively used as WeChat Wallet or Alipay. There are some other smaller apps like Google Wallet, but they're nowhere near comparable to China's behemoth payment systems.
+Now in the U.S., we've got some mobile payment systems, too, but none of them live up to what they have in China. We have Venmo, but vendors don't usually have it and it seems exclusively used by college students. We also have Apple Pay, but at least how I see it, it still seems rather "gimmicky" and isn't something that—in the near future at least—will be as pervasively used as WeChat Wallet or Alipay are. There are some other apps like Google Wallet, but they're nowhere near comparable to China's behemoth payment systems. China's third-party mobile payments in 2016 was $5.5 trillion, compared to U.S.'s modest $112 billion.
 
-But at least while I'm in China, I can bask in the glory of the mobile payment future.
+Oh well. At least while I'm in China, I can bask in the glory of the mobile payment future.
 
 ![Umbrellas](/kennythexu/images/umbrellas.JPG "Umbrellas WOW")
 
-If you have good enough credit, you even can rent an umbrella from one of the many stations like these around Shanghai. You can easily build credit by just using their everyday services. Another cool thing you can get with good credit is a portable charger at again—many places around the city.
+If you have good enough credit, you even can rent an umbrella from one of the many stations like these around Shanghai. Building credit is easily done just by using their everyday services like paying your utility bills. Another complimentary privilege you can get with good credit is a portable charger at, again, the many street locations around the city.
 
-Some other cool things....
+Some other cool things you can do....
 
 Rent city bikes! So, so, sooo many bikes.
 
 
 
-Communal mail boxes that open up with a unique code given to you!
+Receive packages to communal mail boxes that open up only to you!
 
 
 
-Scan so many QR codes for coupons and other cool stuff!
+Scan the many QR codes for coupons and other cool stuff!
 
 
 
@@ -50,4 +50,4 @@ Get hot food and groceries delivered to your home, often in less than 30 minutes
 
 
 
-Welp, I feel like I'm advertising something at this point, so I'll stop.
+Welp, I feel like I'm advertising something at this point, so I'll stop. But like the famous electronic duo, Daft Punk, says, 
