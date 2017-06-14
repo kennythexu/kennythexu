@@ -16,7 +16,8 @@ image:
   — <a href="https://open.spotify.com/track/2KHRENHQzTIQ001nlP9Gdc">"Contact" - Daft Punk</a>
 </div>
 
-<iframe src="https://open.spotify.com/embed?uri=spotify:track:2KHRENHQzTIQ001nlP9Gdc" width="300" height="80" frameborder="0" allowtransparency="true"></iframe>
+<div style='text-align:center'><iframe src="https://open.spotify.com/embed?uri=spotify:track:2KHRENHQzTIQ001nlP9Gdc" width="300" height="80" frameborder="0" allowtransparency="true"></iframe>
+</div>
 
 A nation once known for its copycat manufacturers, but now—China is leading the way in mobile integration... I don't really know what to call it honestly, but it's stuff that's super convenient.
 
