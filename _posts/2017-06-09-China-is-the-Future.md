@@ -17,15 +17,15 @@ image:
 
 A nation once known for its copycat companies, China is now leading the way in mobile innovation... particularly with these things called *_superapps_*.
 
-The name [*super app*](http://www.whatsonweibo.com/whatswechat/) describes an app that does basically everything, from social media, group chats, and gaming to vendor payments, taxi booking, and bike rentals—all within their own respective ecosystems.
+The term [*super app*](http://www.whatsonweibo.com/whatswechat/) refers to an app that does basically everything, from social media, group chats, and gaming to vendor payments, taxi booking, and bike rentals—all within their own respective ecosystems.
 
-When I think of these super apps, like WeChat and Alipay—_Weixin_ and _Zhifubao_ as known by locals—the word "advanced" comes to mind. But maybe that's not the best word to use. Maybe "ubiquitous," or "universal," or "you literally cannot function in Shanghai without WeChat or Alipay." Using these kind of apps, you can even [pay your own water bill](https://www.beijing-kids.com/blog/2015/10/13/net-savings-paying-for-utilities-on-wechat-wallet-and-alipay/) right after you videochat your grandparents or book a movie ticket.
+When I think of these super apps, such as WeChat and Alipay—_Weixin_ and _Zhifubao_ as known by locals—the word "advanced" comes to mind. But maybe that's not the best word to use. Maybe "ubiquitous," or "universal," or "you literally cannot function in Shanghai without WeChat or Alipay." Using these kind of apps, you can even [pay your own water bill](https://www.beijing-kids.com/blog/2015/10/13/net-savings-paying-for-utilities-on-wechat-wallet-and-alipay/) right after you videochat your grandparents or book a movie ticket if you wanted.
 
-As a result, your average Chinese citizen doesn't have to press the home button to do what Americans have to do in a whole bunch of different apps.
+As a result, your average Chinese citizen doesn't have to press the home button to do what Americans have to do in a whole slew of different apps.
 
-Now in the U.S., we've got some mobile payment systems, too, but none of them are up to the equivalent standard in China. We've got Venmo, but vendors don't usually accept it and it seems exclusively used by college students. We also have Apple Pay, but at least how I see it, it still seems rather "gimmicky" and isn't something that—in the near future at least—will be as used as pervasively as WeChat Wallet and Alipay are. There are some other apps like Google Wallet, but they're nowhere near comparable to China's behemoth payment systems. For comparison, China's third-party mobile payment market in 2016 amounted to $5.5 trillion, while the U.S.'s market was measured at meager $112 billion.
+Now in the U.S., we've got some mobile payment systems, too, but none of them are up to the corresponding standard in China. We've got Venmo, but vendors don't usually accept it and seems exclusively used by college students. We also have Apple Pay, but at least how I see it, Apple's take on mobile payments still seems rather "gimmicky" and isn't something that—in the near future at least—will be as used as pervasively as WeChat Wallet and Alipay are. There are some other apps like Google Wallet, but they're nowhere near comparable to China's behemoth payment systems. For comparison, China's third-party mobile payment market in 2016 amounted to $5.5 trillion, while the U.S.'s market was measured at meager $112 billion. Oh well. At least we have _freedom_, right?
 
-Oh well. At least while I'm in China, I can bask in the glory of the mobile payment future, right?
+Well while I'm in China, though, I'll definitely bask in the glory of the mobile payment future.
 
 ![Umbrellas](/kennythexu/images/umbrellas.JPG "Umbrellas WOW")
 
