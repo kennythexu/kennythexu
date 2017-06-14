@@ -10,6 +10,8 @@ image:
   credit:
   creditlink: ""
 ---
+<div style='text-align:center'><iframe src="https://open.spotify.com/embed?uri=spotify:track:19YKaevk2bce4odJkP5L22" width="300" height="80" frameborder="0" allowtransparency="true"></iframe>
+</div>
 
 If you don't know, I'm currently in Shanghai, China (aka [Hoontopia](http://www.barstoolsports.com/barstoolu/if-you-dont-smoke-cigarettes-in-china-you-might-as-well-be-wearing-a-sign-that-says-im-a-virgin/)) right now working as an intern for Aston Martin. I'm living by myself for two months, so with all this free time, I've started a blog to conquer boredom, bright flashing lights, and other casual annoyances that come with the _humongous_ amount of people here. Don't get me wrong though. This place is awesome and honestly, far more advanced than much of the U.S.—I'll probably get to that in another post.
 
