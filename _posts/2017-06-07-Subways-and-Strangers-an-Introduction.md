@@ -25,11 +25,10 @@ Every post, I'm gonna try to introduce a song with the post. Something that mayb
 All I know is that I encourage you to put the song on in the background and join me in my thoughts. I've got plenty time for introspection and reflection, and maybe you do too. Perhaps my publically-shared thoughts could be interesting, or helpful, or exciting, or surprising, or... whatever. I just appreciate you reading.
 
 Today's song is the well-known lead single off of Frank Ocean's _Blond_, "[Nikes](https://open.spotify.com/track/19YKaevk2bce4odJkP5L22 "Nikes")," where in and out of the throbbing bass line and snare delay you find lyrics like these:
-
->We laid out on this wet floor / Away turf, no Astro / Mesmerized how the strobes glow / Look at all the people feet dance.
-
 <div style='text-align:center'><iframe src="https://open.spotify.com/embed?uri=spotify:track:19YKaevk2bce4odJkP5L22" width="300" height="80" frameborder="0" allowtransparency="true"></iframe>
 </div>
+
+>We laid out on this wet floor / Away turf, no Astro / Mesmerized how the strobes glow / Look at all the people feet dance.
 
 ![Shanghai Night](/kennythexu/images/shanghainight.jpg "Shanghai Night")
 
