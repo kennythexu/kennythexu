@@ -15,7 +15,7 @@ image:
 <div style='text-align:center'><iframe src="https://open.spotify.com/embed?uri=spotify:track:2KHRENHQzTIQ001nlP9Gdc" width="300" height="80" frameborder="0" allowtransparency="true"></iframe>
 </div>
 
-A nation once known for its copycat companies, China is now leading the way in mobile innovation... particularly with these things called _*superapps*_.
+A nation once known for its copycat companies, China is now leading the way in mobile innovation... particularly with these things called *_superapps_*.
 
 The name [*super app*](http://www.whatsonweibo.com/whatswechat/) describes an app that does basically everything, from social media, group chats, and gaming to vendor payments, taxi booking, and bike rentals—all within their own respective ecosystems.
 
