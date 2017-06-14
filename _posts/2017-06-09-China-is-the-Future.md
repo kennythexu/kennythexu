@@ -38,15 +38,20 @@ Some other cool things you can do....
 
 Rent city bikes! So, so, sooo many bikes.
 
-
+![Bikes](/kennythexu/images/Bikes.JPG "Rentable Bikes")
 
 Receive packages to communal mail boxes that open up only to you!
 
 
 
-Scan the many QR codes for coupons and other cool stuff!
+Scan the many QR codes around for exclusive looks and offers!
 
+![QR 1](/kennthexu/images/QR 1.JPG "QR Code 1")
+![QR 2](/kennthexu/images/QR 2.JPG "QR Code 2")
 
+And more...
+
+![QR 3](/kennthexu/images/QR 3.JPG "QR Code 3")
 
 Get hot food and groceries delivered to your home, often in less than 30 minutes!
 
