@@ -10,7 +10,7 @@ image:
   credit:
   creditlink: ""
 ---
-&nbsp
+&nbsp;
 <div style='text-align:center'><iframe src="https://open.spotify.com/embed?uri=spotify:track:19YKaevk2bce4odJkP5L22" width="300" height="80" frameborder="0" allowtransparency="true"></iframe>
 </div>
 
