@@ -12,10 +12,6 @@ image:
 ---
 >It is a bright object and it's obviously rotating because it's flashing, it's way out in the distance, certainly rotating in a very rhythmic fashion because the flashes come around almost on time.
 
-<div style="text-align:right">    
-  — <a href="https://open.spotify.com/track/2KHRENHQzTIQ001nlP9Gdc">"Contact" - Daft Punk</a>
-</div>
-
 <div style='text-align:center'><iframe src="https://open.spotify.com/embed?uri=spotify:track:2KHRENHQzTIQ001nlP9Gdc" width="300" height="80" frameborder="0" allowtransparency="true"></iframe>
 </div>
 
