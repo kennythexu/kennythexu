@@ -46,12 +46,12 @@ Receive packages to communal mail boxes that open up only to you!
 
 Scan the many QR codes around for exclusive looks and offers!
 
-![QR 1](/kennythexu/images/QR 1.JPG "QR Code 1")
-![QR 2](/kennythexu/images/QR 2.JPG "QR Code 2")
+![QR 1](/kennythexu/images/QR1.JPG "QR Code 1")
+![QR 2](/kennythexu/images/QR2.JPG "QR Code 2")
 
 And more...
 
-![QR 3](/kennythexu/images/QR 3.JPG "QR Code 3")
+![QR 3](/kennythexu/images/QR3.JPG "QR Code 3")
 
 Get hot food and groceries delivered to your home, often in less than 30 minutes!
 
