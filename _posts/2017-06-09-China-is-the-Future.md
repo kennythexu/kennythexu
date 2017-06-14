@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Why China is More Advanced Than the U.S."
+title: "China is the Future"
 author: "Kenny Xu"
 categories: journal
 tags: [technology,china]
@@ -15,6 +15,8 @@ image:
 <div style="text-align:right">    
   — <a href="https://open.spotify.com/track/2KHRENHQzTIQ001nlP9Gdc">"Contact" - Daft Punk</a>
 </div>
+
+A nation once known for its copycat manufacturers, but now—China is leading the way in mobile integration... I don't really know what to call it honestly, but it's stuff that's super convenient.
 
 The word "advanced" comes to my mind when I think of China's super apps known as WeChat and Alipay, or _Weixin_ and _Zhifubao_ as they are known by the locals.
 
@@ -50,4 +52,4 @@ Get hot food and groceries delivered to your home, often in less than 30 minutes
 
 
 
-Welp, I feel like I'm advertising something at this point, so I'll stop. But like the famous electronic duo, Daft Punk, says, 
+Welp, I feel like I'm advertising something at this point, so I'll stop. But like the famous electronic duo, Daft Punk, says,
