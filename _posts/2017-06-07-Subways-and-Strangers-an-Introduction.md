@@ -10,10 +10,6 @@ image:
   credit:
   creditlink: ""
 ---
-&nbsp;
-<div style='text-align:center'><iframe src="https://open.spotify.com/embed?uri=spotify:track:19YKaevk2bce4odJkP5L22" width="300" height="80" frameborder="0" allowtransparency="true"></iframe>
-</div>
-
 If you don't know, I'm currently in Shanghai, China (aka [Hoontopia](http://www.barstoolsports.com/barstoolu/if-you-dont-smoke-cigarettes-in-china-you-might-as-well-be-wearing-a-sign-that-says-im-a-virgin/)) right now working as an intern for Aston Martin. I'm living by myself for two months, so with all this free time, I've started a blog to conquer boredom, bright flashing lights, and other casual annoyances that come with the _humongous_ amount of people here. Don't get me wrong though. This place is awesome and honestly, far more advanced than much of the U.S.—I'll probably get to that in another post.
 
 Every day I take the subway to work. Once at 9am, and then at rush hour 6pm I cram myself shoulder-to-shoulder with hundreds of strangers on the subway straight back to the apartment I'm living in on Weining Road. During my time on public transit, I always got my headphones in, listening to any kind of music—from the early 2000s British rock albums of Coldplay's _Parachutes_ to the like of Kendrick Lamar's _DAMN_.
@@ -31,6 +27,9 @@ All I know is that I encourage you to put the song on in the background and join
 Today's song is the well-known lead single off of Frank Ocean's _Blond_, "[Nikes](https://open.spotify.com/track/19YKaevk2bce4odJkP5L22 "Nikes")," where in and out of the throbbing bass line and snare delay you find lyrics like these:
 
 >We laid out on this wet floor / Away turf, no Astro / Mesmerized how the strobes glow / Look at all the people feet dance.
+
+<div style='text-align:center'><iframe src="https://open.spotify.com/embed?uri=spotify:track:19YKaevk2bce4odJkP5L22" width="300" height="80" frameborder="0" allowtransparency="true"></iframe>
+</div>
 
 ![Shanghai Night](/kennythexu/images/shanghainight.jpg "Shanghai Night")
 
