@@ -29,22 +29,23 @@ Well while I'm in China, though, I'll definitely bask in the glory of the mobile
 
 ![Umbrellas](/kennythexu/images/umbrellas.JPG "Umbrellas WOW")
 
-If you have good enough credit, you even can rent an umbrella from one of the many stations like these around Shanghai. Building credit is easily done just by using their everyday services like paying your utility bills. Another complimentary privilege you can get with good credit is a portable charger at, again, the many street locations around the city.
+Just look at this. If you have good enough credit, you can rent an umbrella from one of the many stations like these around Shanghai. Building credit is easily done. You just have to regularly use the app's everyday services. Some other complimentary things that you can get include a portable charger.
 
-Some other cool things you can do....
-
-Rent city bikes! So, so, sooo many bikes.
+Here are some other cool things....
 
 ![Bikes](/kennythexu/images/Bikes.JPG "Rentable Bikes")
+
+Rent city bikes! So, so, sooo many bikes.
 
 Receive packages to communal mail boxes that open up only to you!
 
 
 
-Scan the many QR codes around for exclusive looks and offers!
 
 ![QR 1](/kennythexu/images/QR1.JPG "QR Code 1")
 ![QR 2](/kennythexu/images/QR2.JPG "QR Code 2")
+
+Scan the many QR codes around for exclusive looks and offers!
 
 And more...
 
