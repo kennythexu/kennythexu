@@ -33,7 +33,7 @@ Have a look at some of the photographs I took in the ancient water town of Zhuji
 
 ![Sitting Woman](/kennythexu/images/Zhujiajiao/Zhujiajiao-3.jpg "Sitting Woman")
 
-<p style="text-align:center;"><img src="/kennythexu/images/Zhujiajiao/Zhujiajiao-4.jpg" alt="Walking the Dog"></p>
+![Walking the Dog](/kennythexu/images/Zhujiajiao/Zhujiajiao-4.jpg "Walking the Dog")
 
 ![Wheelchair](/kennythexu/images/Zhujiajiao/Zhujiajiao-5.jpg "Wheelchair")
 
