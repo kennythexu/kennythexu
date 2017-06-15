@@ -13,7 +13,7 @@ image:
 
 Have a look at some of the photographs I took in the ancient water town of Zhujiajiao.
 
-<a href="/kennythexu/Zhujiajiao/HQ/Zhujiajiao/Zhujiajiao-6.jpg_blank">![Water Town](/kennythexu/images/Zhujiajiao/Zhujiajiao-1-6.jpg "Water Town")</a>
+<a href="/kennythexu/Zhujiajiao/HQ/Zhujiajiao/Zhujiajiao-6.jpg" target="_blank">![Water Town](/kennythexu/images/Zhujiajiao/Zhujiajiao-1-6.jpg "Water Town")</a>
 
 ![Mannequin](/kennythexu/images/Zhujiajiao/Zhujiajiao-1.jpg "Mannequin")
 
