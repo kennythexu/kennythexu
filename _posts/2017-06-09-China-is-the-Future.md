@@ -17,7 +17,7 @@ image:
 
 A nation once known for its copycat companies, China is now leading the way in mobile innovation... particularly with these things called ***superapps***.
 
-The term [*super app*](http://www.whatsonweibo.com/whatswechat/) refers to an app that does basically everything, from social media, group chats, and gaming to vendor payments, taxi booking, and bike rentals—all within their own respective ecosystems.
+The term ***[super app](http://www.whatsonweibo.com/whatswechat/)*** refers to an app that does basically everything, from social media, group chats, and gaming to vendor payments, taxi booking, and bike rentals—all within their own respective ecosystems.
 
 When I think of these super apps, such as WeChat and Alipay—_Weixin_ and _Zhifubao_ as known by locals—the word "advanced" comes to mind. But maybe that's not the best word to use. Maybe "ubiquitous," or "universal," or "you literally cannot function in Shanghai without WeChat or Alipay." Using these kind of apps, you can even [pay your own water bill](https://www.beijing-kids.com/blog/2015/10/13/net-savings-paying-for-utilities-on-wechat-wallet-and-alipay/) right after you videochat your grandparents or book a movie ticket if you wanted.
 
