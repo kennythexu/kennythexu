@@ -29,7 +29,7 @@ Have a look at some of the many photographs I took during my trip to the ancient
 
 <a href="/kennythexu/images/Zhujiajiao/HQ/Zhujiajiao-10.jpg" target="_blank">![Shoes in Odd Place](/kennythexu/images/Zhujiajiao/Zhujiajiao-1-8.jpg "Shoes in Odd Place")</a>
 
-<a href="/kennythexu/images/Zhujiajiao/HQ/Zhujiajiao-16.jpg" target="_blank">![Alley House](/kennythexu/images/Zhujiajiao/Zhujiajiao-1-9.jpg "Alley House")</a>
+<a href="/kennythexu/images/Zhujiajiao/HQ/Zhujiajiao-14.jpg" target="_blank">![Red Girl](/kennythexu/images/Zhujiajiao/Zhujiajiao-8.jpg "Red Girl")</a>
 
 <a href="/kennythexu/images/Zhujiajiao/HQ/Zhujiajiao-1.jpg" target="_blank">![Store Front](/kennythexu/images/Zhujiajiao/Zhujiajiao-1-10.jpg "Store Front")</a>
 
@@ -45,4 +45,4 @@ Have a look at some of the many photographs I took during my trip to the ancient
 
 <a href="/kennythexu/images/Zhujiajiao/HQ/Zhujiajiao-13.jpg" target="_blank">![Couple](/kennythexu/images/Zhujiajiao/Zhujiajiao-7.jpg "Couple")</a>
 
-<a href="/kennythexu/images/Zhujiajiao/HQ/Zhujiajiao-14.jpg" target="_blank">![Red Girl](/kennythexu/images/Zhujiajiao/Zhujiajiao-8.jpg "Red Girl")</a>
+<a href="/kennythexu/images/Zhujiajiao/HQ/Zhujiajiao-16.jpg" target="_blank">![Alley House](/kennythexu/images/Zhujiajiao/Zhujiajiao-1-9.jpg "Alley House")</a>
