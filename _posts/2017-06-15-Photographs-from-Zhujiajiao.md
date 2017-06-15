@@ -15,11 +15,11 @@ image:
 <div style='text-align:center'><iframe src="https://open.spotify.com/embed?uri=spotify:track:1idBirsBGvCMsLvv4cTv7k" width="300" height="80" frameborder="0" allowtransparency="true"></iframe>
 </div>
 
-Have a look at some of the photographs I took in the ancient water town of Zhujiajiao. Feel free to click on any of the pictures to get a larger look.
-
-<a href="/kennythexu/images/Zhujiajiao/HQ/Zhujiajiao-6.jpg" target="_blank">![Water Town](/kennythexu/images/Zhujiajiao/Zhujiajiao-1-6.jpg "Water Town")</a>
+Have a look at some of the many photographs I took during my trip to the ancient water town of Zhujiajiao. Feel free to click on any of the pictures to get a larger look.
 
 <a href="/kennythexu/images/Zhujiajiao/HQ/Zhujiajiao-15.jpg" target="_blank">![Mannequin](/kennythexu/images/Zhujiajiao/Zhujiajiao-1.jpg "Mannequin")</a>
+
+<a href="/kennythexu/images/Zhujiajiao/HQ/Zhujiajiao-6.jpg" target="_blank">![Water Town](/kennythexu/images/Zhujiajiao/Zhujiajiao-1-6.jpg "Water Town")</a>
 
 <a href="/kennythexu/images/Zhujiajiao/HQ/Zhujiajiao-2.jpg" target="_blank">![Point](/kennythexu/images/Zhujiajiao/Zhujiajiao-1-3.jpg "Point")</a>
 
