@@ -36,7 +36,7 @@ Just look at this. If you have good enough credit from paying bills and the like
 So, so, sooo many rentable bikes.
 
 ![QR 1](/kennythexu/images/QR1.JPG "QR Code 1")
-<img align="middle" src="/kennythexu/images/QR2.JPG" alt="QR Code 2">
+<p style="text-align:center;"><img src="/kennythexu/images/QR2.JPG" alt="QR Code 2"></p>
 
 Soooooo many QR codes for your scanning convenience.
 
