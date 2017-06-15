@@ -23,29 +23,22 @@ When I think of these super apps, such as WeChat and Alipay—_Weixin_ and _Zhif
 
 As a result, your average Chinese citizen doesn't have to press the home button to do what Americans have to do in a whole slew of different apps.
 
-Now in the U.S., we've got some mobile payment systems, too, but none of them are up to the corresponding standard in China. We've got Venmo, but vendors don't usually accept it and seems exclusively used by college students. We also have Apple Pay, but at least how I see it, Apple's take on mobile payments still seems rather "gimmicky" and isn't something that—in the near future at least—will be as used as pervasively as WeChat Wallet and Alipay are. There are some other apps like Google Wallet, but they're nowhere near comparable to China's behemoth payment systems. For comparison, China's third-party mobile payment market in 2016 amounted to $5.5 trillion, while the U.S.'s market was measured at meager $112 billion. Oh well. At least we have _freedom_, right?
+Now in the U.S., we've got mobile payment systems, too, but none of them can compete with the corresponding standard in China. We've got Venmo, but vendors don't usually accept it and seems exclusively used by college students. We also have Apple Pay, but at least how I see it, Apple's take on mobile payments still seems rather "gimmicky" and isn't something that—in the near future at least—will be as used as pervasively as WeChat Wallet and Alipay are. There are some other apps like Google Wallet, but they're nowhere near comparable to China's behemoth payment systems. For comparison, [China's mobile payment market amounted to $5.5 trillion in 2016, while the United States market was measured at a meager $112 billion](https://www.ft.com/content/00585722-ef42-11e6-930f-061b01e23655?mhq5j=e3). In Shanghai, where I am right now, basically every single vendor accepts Alipay or WeChat payments, and most accept both. Oh well. At least we have _freedom_, right?
 
 Well while I'm in China, though, I'll definitely bask in the glory of the mobile payment future.
 
 ![Umbrellas](/kennythexu/images/umbrellas.JPG "Umbrellas WOW")
 
-Just look at this. If you have good enough credit, you can rent an umbrella from one of the many stations like these around Shanghai. Building credit is easily done. You just have to regularly use the app's everyday services. Some other complimentary things that you can get include a portable charger.
-
-Here are some other cool things....
+Just look at this. If you have good enough credit from paying bills and the like, you can borrow a complimentary umbrella or even a portable charger (not pictured) from one of the many stations like these around Shanghai.
 
 ![Bikes](/kennythexu/images/Bikes.JPG "Rentable Bikes")
 
-Rent city bikes! So, so, sooo many bikes.
-
-Receive packages to communal mail boxes that open up only to you!
-
-
-
+So, so, sooo many rentable bikes.
 
 ![QR 1](/kennythexu/images/QR1.JPG "QR Code 1")
 ![QR 2](/kennythexu/images/QR2.JPG "QR Code 2")
 
-Scan the many QR codes around for exclusive looks and offers!
+Soooooo many QR codes for your scanning convenience.
 
 And more...
 
@@ -55,4 +48,4 @@ Get hot food and groceries delivered to your home, often in less than 30 minutes
 
 
 
-Welp, I feel like I'm advertising something at this point, so I'll stop. But like the famous electronic duo, Daft Punk, says,
+Welp, I feel like I'm advertising something at this point, so I'll stop. I haven't even touched on communal mailboxes, But like the famous electronic duo, Daft Punk, says,
