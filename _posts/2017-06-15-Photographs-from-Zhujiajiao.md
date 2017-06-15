@@ -15,13 +15,13 @@ Have a look at some of the photographs I took in the ancient water town of Zhuji
 
 <a href="/kennythexu/images/Zhujiajiao/HQ/Zhujiajiao-6.jpg" target="_blank">![Water Town](/kennythexu/images/Zhujiajiao/Zhujiajiao-1-6.jpg "Water Town")</a>
 
-![Mannequin](/kennythexu/images/Zhujiajiao/Zhujiajiao-1.jpg "Mannequin")
+<a href="/kennythexu/images/Zhujiajiao/HQ/Zhujiajiao-15.jpg" target="_blank">![Mannequin](/kennythexu/images/Zhujiajiao/Zhujiajiao-1.jpg "Mannequin")</a>
 
-![Point](/kennythexu/images/Zhujiajiao/Zhujiajiao-1-3.jpg "Point")
+<a href="/kennythexu/images/Zhujiajiao/HQ/Zhujiajiao-2.jpg" target="_blank">![Point](/kennythexu/images/Zhujiajiao/Zhujiajiao-1-3.jpg "Point")</a>
 
-![Boat Overlook](/kennythexu/images/Zhujiajiao/Zhujiajiao-1-5.jpg "Boat Overlook")
+<a href="/kennythexu/images/Zhujiajiao/HQ/Zhujiajiao-5.jpg" target="_blank">![Boat Overlook](/kennythexu/images/Zhujiajiao/Zhujiajiao-1-5.jpg "Boat Overlook")</a>
 
-![Boat Man](/kennythexu/images/Zhujiajiao/Zhujiajiao-1-7.jpg "Boat Man")
+<a href="/kennythexu/images/Zhujiajiao/HQ/Zhujiajiao-8.jpg" target="_blank">![Boat Man](/kennythexu/images/Zhujiajiao/Zhujiajiao-1-7.jpg "Boat Man")</a>
 
 ![Shoes in Odd Place](/kennythexu/images/Zhujiajiao/Zhujiajiao-1-8.jpg "Shoes in Odd Place")
 
