@@ -27,7 +27,7 @@ Now in the U.S., we've got mobile payment systems, too, but none of them can com
 
 Well while I'm in China, though, I'll definitely bask in the glory of the mobile payment future.
 
-# Just look at this.
+## Just look at this stuff.
 If you have good enough credit from paying bills and the like, you can borrow a complimentary umbrella or even a portable charger (not pictured) from one of the many stations like these around Shanghai.
 
 ![Umbrellas](/kennythexu/images/umbrellas.JPG "Umbrellas WOW")
@@ -36,7 +36,7 @@ So, so, sooo many rentable bikes, too.
 
 ![Bikes](/kennythexu/images/Bikes.JPG "Rentable Bikes")
 
-Or you can try your hand at the many QR codes for you scanning convenience.
+Or you can try your hand at the many QR codes at your scanning convenience.
 
 ![QR 1](/kennythexu/images/QR1.JPG "QR Code 1")
 
@@ -46,6 +46,8 @@ And more...
 
 ![QR 3](/kennythexu/images/QR3.JPG "QR Code 3")
 
-![QR 4](/kennythexu/images/QR4.JPG "QR Code 4")
+<p style="text-align:center;"><img src="/kennythexu/images/QR4.JPG" alt="QR Code 4"></p>
 
-Get hot food and groceries delivered to your home, often in less than 30 minutes!
+Really though, too many.
+
+I haven't even gotten to the communal mailboxes or the food and grocery delivery (that often comes in <20 minutes!). It's ridiculous here really. Everything is just so convenient. But of course, I guess that's expected when you are living in the future.
