@@ -27,25 +27,25 @@ Now in the U.S., we've got mobile payment systems, too, but none of them can com
 
 Well while I'm in China, though, I'll definitely bask in the glory of the mobile payment future.
 
+# Just look at this.
+If you have good enough credit from paying bills and the like, you can borrow a complimentary umbrella or even a portable charger (not pictured) from one of the many stations like these around Shanghai.
+
 ![Umbrellas](/kennythexu/images/umbrellas.JPG "Umbrellas WOW")
 
-Just look at this. If you have good enough credit from paying bills and the like, you can borrow a complimentary umbrella or even a portable charger (not pictured) from one of the many stations like these around Shanghai.
+So, so, sooo many rentable bikes, too.
 
 ![Bikes](/kennythexu/images/Bikes.JPG "Rentable Bikes")
 
-So, so, sooo many rentable bikes.
+Or you can try your hand at the many QR codes for you scanning convenience.
 
 ![QR 1](/kennythexu/images/QR1.JPG "QR Code 1")
-<p style="text-align:center;"><img src="/kennythexu/images/QR2.JPG" alt="QR Code 2"></p>
 
-Soooooo many QR codes for your scanning convenience.
+<p style="text-align:center;"><img src="/kennythexu/images/QR2.JPG" alt="QR Code 2"></p>
 
 And more...
 
 ![QR 3](/kennythexu/images/QR3.JPG "QR Code 3")
 
+![QR 4](/kennythexu/images/QR4.JPG "QR Code 4")
+
 Get hot food and groceries delivered to your home, often in less than 30 minutes!
-
-
-
-Welp, I feel like I'm advertising something at this point, so I'll stop. I haven't even touched on communal mailboxes, But like the famous electronic duo, Daft Punk, says,
