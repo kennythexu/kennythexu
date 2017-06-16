@@ -25,7 +25,7 @@ As Ben Thompson writes in recent column titled ["Apple's China Problem"](https:/
 
 >There is nothing in any other country that is comparable: not LINE, not WhatsApp, not Facebook. All of those are about communication or wasting time: WeChat is that, but it is also for reading news, for hailing taxis, for paying for lunch (try and pay with cash for lunch, and you’ll look like a luddite), for accessing government resources, for business. For all intents and purposes WeChat is your phone, and to a far greater extent in China than anywhere else, your phone is everything.
 
-As a result, your average Chinese citizen doesn't have to press the home button to do what Americans have to do in a whole slew of different apps.
+Therefore, your average Chinese citizen doesn't have to press the home button to do what Americans have to do in a whole slew of different apps.
 
 Now in the U.S., we don't have these kind of _super apps_, but we do have mobile payment systems. But take a closer look at them, and you'll find that none of them can compete with the corresponding standard in China.
 
