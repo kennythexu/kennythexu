@@ -50,7 +50,7 @@ Or you can try your hand at the many QR codes at your scanning convenience.
 
 And more...
 
-![QR 3](/kennythexu/images/QR3.JPG "QR Code 3")
+<p style="text-align:center;"><img src="/kennythexu/images/QR3.JPG" alt="QR Code 3"></p>
 
 <p style="text-align:center;"><img src="/kennythexu/images/QR4.JPG" alt="QR Code 4"></p>
 
