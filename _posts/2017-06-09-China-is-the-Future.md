@@ -15,19 +15,23 @@ image:
 <div style='text-align:center'><iframe src="https://open.spotify.com/embed?uri=spotify:track:2KHRENHQzTIQ001nlP9Gdc" width="300" height="80" frameborder="0" allowtransparency="true"></iframe>
 </div>
 
-A nation once known for its copycat companies, China is now leading the way in mobile innovation... particularly with these things called _superapps_.
+A nation once known for its copycat companies, China is now leading the way in mobile innovation... particularly with these things called _super apps_.
 
 The term ***[super app](http://www.whatsonweibo.com/whatswechat/)*** refers to an app that does basically everything, from social media, group chats, and gaming to vendor payments, taxi booking, and bike rentals—all within their own respective ecosystems.
 
-When I think of these super apps, such as WeChat and Alipay—_Weixin_ and _Zhifubao_ as known by locals—the word "advanced" comes to mind. But maybe that's not the best word to use. Maybe "ubiquitous," or "universal," or "you literally cannot function in Shanghai without WeChat or Alipay." Using these kind of apps, you can even [pay your own water bill](https://www.beijing-kids.com/blog/2015/10/13/net-savings-paying-for-utilities-on-wechat-wallet-and-alipay/) right after you videochat your grandparents or book a movie ticket if you wanted.
+When I think of these super apps, such as WeChat and Alipay—_Weixin_ and _Zhifubao_ as known by locals—the word "advanced" comes to mind. But maybe that's not the best word to use. Maybe "ubiquitous," or "universal," or "you literally cannot function in Shanghai without WeChat or Alipay." Using these kind of apps, you can even [pay your own water bill](https://www.beijing-kids.com/blog/2015/10/13/net-savings-paying-for-utilities-on-wechat-wallet-and-alipay/) right after you videochat your grandparents or book a movie ticket if you wanted. Alipay and more so, WeChat, are influential in everyday life to a degree that isn't even close to being matched in the States.
+
+As Ben Thompson writes in recent column titled !["The China Problem"](http://a16z.com/2015/08/06/wechat-china-mobile-first/):
+
+>There is nothing in any other country that is comparable: not LINE, not WhatsApp, not Facebook. All of those are about communication or wasting time: WeChat is that, but it is also for reading news, for hailing taxis, for paying for lunch (try and pay with cash for lunch, and you’ll look like a luddite), for accessing government resources, for business. For all intents and purposes WeChat is your phone, and to a far greater extent in China than anywhere else, your phone is everything.
 
 As a result, your average Chinese citizen doesn't have to press the home button to do what Americans have to do in a whole slew of different apps.
 
-Now in the U.S., we've got mobile payment systems, too, but none of them can compete with the corresponding standard in China. We've got Venmo, but vendors don't usually accept it and seems exclusively used by college students. We also have Apple Pay, but at least how I see it, Apple's take on mobile payments still seems rather "gimmicky" and isn't something that—in the near future at least—will be as used as pervasively as WeChat Wallet and Alipay are. There are some other apps like Google Wallet, but they're nowhere near comparable to China's behemoth payment systems. For comparison, [China's mobile payment market amounted to $5.5 trillion in 2016, while the United States market was measured at a meager $112 billion](https://www.ft.com/content/00585722-ef42-11e6-930f-061b01e23655?mhq5j=e3). In Shanghai, where I am right now, basically every single vendor accepts Alipay or WeChat payments, and most accept both. Oh well. At least we have _freedom_, right?
+Now in the U.S., we don't have these kind of _super apps_, but we do have mobile payment systems. But when you take a closer look at them, none of them can compete with the corresponding standard in China. We've got Venmo, but vendors don't usually accept it and seems exclusively used by college students. We also have Apple Pay, but at least how I see it, Apple's take on mobile payments still seems rather "gimmicky" and isn't something that—in the near future at least—will be as used as pervasively as WeChat Wallet and Alipay are. There are some other apps like Google Wallet, but they're nowhere near comparable to China's behemoth payment systems. For comparison, [China's mobile payment market amounted to $5.5 trillion in 2016, while the United States market was measured at a meager $112 billion](https://www.ft.com/content/00585722-ef42-11e6-930f-061b01e23655?mhq5j=e3). In Shanghai, where I am right now, basically every single vendor accepts Alipay or WeChat payments, and the majority accept both. Oh well. At least we have _freedom_, right?
 
-Well while I'm in China, though, I'll definitely bask in the glory of the mobile payment future.
+And being in China myself, I've been compelled to embrace this mobile innovation. I am all for basking in the glory of the mobile future.
 
-## Just look at this stuff.
+## Just look at some of this stuff.
 If you have good enough credit from paying bills and the like, you can borrow a complimentary umbrella or even a portable charger (not pictured) from one of the many stations like these around Shanghai.
 
 ![Umbrellas](/kennythexu/images/umbrellas.JPG "Umbrellas WOW")
@@ -50,4 +54,4 @@ And more...
 
 Really though, too many.
 
-I haven't even gotten to the communal mailboxes or the food and grocery delivery (that often comes in <20 minutes!). It's ridiculous here really. Everything is just so convenient. But of course, I guess that's expected when you are living in the future.
+I've only given you a small taste of this world. I haven't even gotten to the communal mailboxes or the food and grocery delivery (that often comes in <20 minutes!). It's ridiculous here really. It might be the population density, or the fast-pace society, but whatever it is, China's mobile infrastructure leads in the world with its prominent _super apps_. Everything is just so convenient and unprecedented, and it's something that's interesting to look at from my perspective growing up in the United States. But of course, I guess all this is expected when you are living in the future.
