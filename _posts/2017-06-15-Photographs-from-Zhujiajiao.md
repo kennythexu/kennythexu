@@ -15,7 +15,7 @@ image:
 <div style='text-align:center'><iframe src="https://open.spotify.com/embed?uri=spotify:track:1idBirsBGvCMsLvv4cTv7k" width="300" height="80" frameborder="0" allowtransparency="true"></iframe>
 </div>
 
-Zhujiajiao is an ancient watertown that was built more than 1700 years ago. The term watertown is reminiscent of Venice's winding canals, waterways, and bridges. It's not quite a Venice, but being just outside the city of Shanghai, it's well worth a visit.
+Built over 1700s years ago, Zhujiajiao is an ancient watertown sprawling with beautiful waterways, bridges, and boats, reminiscent of Italy's famous Venice. I wouldn't go as far to put it on the same pedestal as Venice, but being just outside the city of Shanghai, it'd be foolish for me not to visit.
 
 Have a look at some of the many photographs I took during my trip to the small watertown. Feel free to click on any of the pictures to get a larger look.
 
