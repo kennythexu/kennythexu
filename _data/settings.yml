@@ -1,8 +1,8 @@
 title:  "An Atonal Life"
-tagline:  a blog
+tagline:  by Kenny Xu
 author:
   name: "Kenny Xu"
-  twitter:  kennythexu
+  twitter:  XuKenny
 
 menu:
 - {name: 'About', url: 'about.html'}
