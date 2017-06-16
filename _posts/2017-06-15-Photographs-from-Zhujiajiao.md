@@ -15,7 +15,9 @@ image:
 <div style='text-align:center'><iframe src="https://open.spotify.com/embed?uri=spotify:track:1idBirsBGvCMsLvv4cTv7k" width="300" height="80" frameborder="0" allowtransparency="true"></iframe>
 </div>
 
-Have a look at some of the many photographs I took during my trip to the ancient water town of Zhujiajiao. Feel free to click on any of the pictures to get a larger look.
+Zhujiajiao is an ancient watertown that was built more than 1700 years ago. The term watertown is reminiscent of Venice's winding canals, waterways, and bridges. It's not quite a Venice, but being just outside the city of Shanghai, it's well worth a visit.
+
+Have a look at some of the many photographs I took during my trip to the small watertown. Feel free to click on any of the pictures to get a larger look.
 
 <a href="/kennythexu/images/Zhujiajiao/HQ/Zhujiajiao-15.jpg" target="_blank">![Mannequin](/kennythexu/images/Zhujiajiao/Zhujiajiao-1.jpg "Mannequin")</a>
 
