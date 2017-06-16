@@ -50,9 +50,9 @@ Or you can try your hand at the many QR codes at your scanning convenience.
 
 And more...
 
-<p style="text-align:center;"><img src="/kennythexu/images/QR3.JPG" alt="QR Code 3"></p>
+<p style="text-align:center;"><img src="/kennythexu/images/QR4.JPG" alt="QR Code 3"></p>
 
-<p style="text-align:center;"><img src="/kennythexu/images/QR4.JPG" alt="QR Code 4"></p>
+<p style="text-align:center;"><img src="/kennythexu/images/QR3.JPG" alt="QR Code 4"></p>
 
 Really though, too many.
 
