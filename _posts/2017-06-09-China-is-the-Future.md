@@ -21,7 +21,7 @@ The term ***[super app](http://www.whatsonweibo.com/whatswechat/)*** refers to a
 
 When I think of these super apps, such as WeChat and Alipay—_Weixin_ and _Zhifubao_ as known by locals—the word "advanced" comes to mind. But maybe that's not the best word to use. Maybe "ubiquitous," or "universal," or "you literally cannot function in Shanghai without WeChat or Alipay." Using these kind of apps, you can even [pay your own water bill](https://www.beijing-kids.com/blog/2015/10/13/net-savings-paying-for-utilities-on-wechat-wallet-and-alipay/) right after you videochat your grandparents or book a movie ticket if you wanted. Alipay and more so, WeChat, are influential in everyday life to a degree that isn't even close to being matched in the States.
 
-As Ben Thompson writes in recent column titled !["The China Problem"](http://a16z.com/2015/08/06/wechat-china-mobile-first/):
+As Ben Thompson writes in recent column titled ["The China Problem"](http://a16z.com/2015/08/06/wechat-china-mobile-first/):
 
 >There is nothing in any other country that is comparable: not LINE, not WhatsApp, not Facebook. All of those are about communication or wasting time: WeChat is that, but it is also for reading news, for hailing taxis, for paying for lunch (try and pay with cash for lunch, and you’ll look like a luddite), for accessing government resources, for business. For all intents and purposes WeChat is your phone, and to a far greater extent in China than anywhere else, your phone is everything.
 
