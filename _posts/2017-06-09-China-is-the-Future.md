@@ -36,29 +36,29 @@ And being in China myself, I've been compelled to embrace this mobile innovation
 ## Just look at some of this stuff.
 If you have good enough credit from paying bills and the like, you can borrow a complimentary umbrella or even a portable charger (not pictured) from one of the many stations like these around Shanghai.
 
-<p style="text-align:center;"><img src="/kennythexu/images/umbrellas.JPG" alt="Umbrellas WOW"></p>
+<p style="text-align:center;"><img src="/images/umbrellas.JPG" alt="Umbrellas WOW"></p>
 
 So, so, sooo many rentable bikes, too.
 
-<p style="text-align:center;"><img src="/kennythexu/images/Bikes.JPG" alt="Rentable Bikes"></p>
+<p style="text-align:center;"><img src="/images/Bikes.JPG" alt="Rentable Bikes"></p>
 
 Or you can try your hand at the many QR codes. Conveniently placed for your scanning convenience.
 
-<p style="text-align:center;"><img src="/kennythexu/images/QR1.JPG" alt="QR Code 1"></p>
+<p style="text-align:center;"><img src="/images/QR1.JPG" alt="QR Code 1"></p>
 
-<p style="text-align:center;"><img src="/kennythexu/images/QR2.JPG" alt="QR Code 2"></p>
+<p style="text-align:center;"><img src="/images/QR2.JPG" alt="QR Code 2"></p>
 
 And more...
 
-<p style="text-align:center;"><img src="/kennythexu/images/QR4.JPG" alt="QR Code 3"></p>
+<p style="text-align:center;"><img src="/images/QR4.JPG" alt="QR Code 3"></p>
 
-<p style="text-align:center;"><img src="/kennythexu/images/QR3.JPG" alt="QR Code 4"></p>
+<p style="text-align:center;"><img src="/images/QR3.JPG" alt="QR Code 4"></p>
 
-<p style="text-align:center;"><img src="/kennythexu/images/QR5.JPG" alt="QR Code 5"></p>
+<p style="text-align:center;"><img src="/images/QR5.JPG" alt="QR Code 5"></p>
 
-<p style="text-align:center;"><img src="/kennythexu/images/QR6.JPG" alt="QR Code 6"></p>
+<p style="text-align:center;"><img src="/images/QR6.JPG" alt="QR Code 6"></p>
 
-<p style="text-align:center;"><img src="/kennythexu/images/QR7.JPG" alt="QR Code 7"></p>
+<p style="text-align:center;"><img src="/images/QR7.JPG" alt="QR Code 7"></p>
 
 Really though, too many.
 
