@@ -5,7 +5,6 @@ author:
   twitter:  XuKenny
 
 menu:
-- {name: 'Home', url: 'kennyjxu.me'}
 - {name: 'About', url: 'about.html'}
 - {name: 'Writing', url: 'writing.html'}
 - {name: 'Contact', url: 'contact.html'}
