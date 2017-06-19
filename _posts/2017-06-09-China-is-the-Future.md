@@ -32,7 +32,7 @@ Now in the U.S., we don't have these kind of _super apps_, but we do have mobile
 We've got Venmo, but vendors don't usually accept it and seems exclusively used by college students. We also have Apple Pay, but at least how I see it, Apple's take on mobile payments still seems rather "gimmicky" and isn't something that—in the near future at least—will be as used as pervasively as WeChat Wallet and Alipay are. There are some other apps like Google Wallet, but they're nowhere near comparable to China's behemoth payment systems. For comparison, [China's mobile payment market amounted to $5.5 trillion in 2016, while the United States market was measured at a meager $112 billion](https://www.ft.com/content/00585722-ef42-11e6-930f-061b01e23655?mhq5j=e3). In Shanghai, where I am right now, basically every single vendor accepts Alipay or WeChat payments, and the majority accept both. Oh well. At least we have _freedom_, right?
 
 And being in China myself, I've been compelled to embrace this mobile innovation. I am all for basking in the glory of the mobile future.
-
+&nbsp;
 ## Just look at some of this stuff.
 If you have good enough credit from paying bills and the like, you can borrow a complimentary umbrella or even a portable charger (not pictured) from one of the many stations like these around Shanghai.
 
@@ -42,7 +42,7 @@ So, so, sooo many rentable bikes, too.
 
 ![Bikes](/kennythexu/images/Bikes.JPG "Rentable Bikes")
 
-Or you can try your hand at the many QR codes at your scanning convenience.
+Or you can try your hand at the many QR codes. Conveniently placed for your scanning convenience.
 
 <p style="text-align:center;"><img src="/kennythexu/images/QR1.JPG" alt="QR Code 1"></p>
 
