@@ -29,11 +29,19 @@ Have a look at some of the many photographs I took during my trip to the small w
 
 <a href="/kennythexu/images/Zhujiajiao/HQ/Zhujiajiao-8.jpg" target="_blank">![Boat Man](/kennythexu/images/Zhujiajiao/Zhujiajiao-1-7.jpg "Boat Man")</a>
 
+<a href="/kennythexu/images/Zhujiajiao/HQ/Zhujiajiao-1-4.jpg" target="_blank">![Crowded](/kennythexu/images/Zhujiajiao/Zhujiajiao-1-12.jpg "Crowded")</a>
+
+<a href="/kennythexu/images/Zhujiajiao/HQ/Zhujiajiao-1-5.jpg" target="_blank">![Food](/kennythexu/images/Zhujiajiao/Zhujiajiao-1-13.jpg "Food")</a>
+
 <a href="/kennythexu/images/Zhujiajiao/HQ/Zhujiajiao-10.jpg" target="_blank">![Shoes in Odd Place](/kennythexu/images/Zhujiajiao/Zhujiajiao-1-8.jpg "Shoes in Odd Place")</a>
 
 <a href="/kennythexu/images/Zhujiajiao/HQ/Zhujiajiao-14.jpg" target="_blank">![Red Girl](/kennythexu/images/Zhujiajiao/Zhujiajiao-8.jpg "Red Girl")</a>
 
 <a href="/kennythexu/images/Zhujiajiao/HQ/Zhujiajiao-1.jpg" target="_blank">![Store Front](/kennythexu/images/Zhujiajiao/Zhujiajiao-1-10.jpg "Store Front")</a>
+
+<a href="/kennythexu/images/Zhujiajiao/HQ/Zhujiajiao-1-2.jpg" target="_blank">![Colorful Lanterns](/kennythexu/images/Zhujiajiao/Zhujiajiao-1-2.jpg "Colorful Lanterns")</a>
+
+<a href="/kennythexu/images/Zhujiajiao/HQ/Zhujiajiao-1-3.jpg" target="_blank">![Bridge](/kennythexu/images/Zhujiajiao/Zhujiajiao-1-11.jpg "Bridge")</a>
 
 <a href="/kennythexu/images/Zhujiajiao/HQ/Zhujiajiao-3.jpg" target="_blank">![Squat](/kennythexu/images/Zhujiajiao/Zhujiajiao-2.jpg "Squat")</a>
 
