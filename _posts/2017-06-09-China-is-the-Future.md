@@ -36,11 +36,11 @@ And being in China myself, I've been compelled to embrace this mobile innovation
 ## Just look at some of this stuff.
 If you have good enough credit from paying bills and the like, you can borrow a complimentary umbrella or even a portable charger (not pictured) from one of the many stations like these around Shanghai.
 
-![Umbrellas](/kennythexu/images/umbrellas.JPG "Umbrellas WOW")
+<p style="text-align:center;"><img src="/kennythexu/images/umbrellas.JPG" alt="Umbrellas WOW"></p>
 
 So, so, sooo many rentable bikes, too.
 
-![Bikes](/kennythexu/images/Bikes.JPG "Rentable Bikes")
+<p style="text-align:center;"><img src="/kennythexu/images/Bikes.JPG" alt="Rentable Bikes"></p>
 
 Or you can try your hand at the many QR codes. Conveniently placed for your scanning convenience.
 
