@@ -44,7 +44,7 @@ So, so, sooo many rentable bikes, too.
 
 Or you can try your hand at the many QR codes at your scanning convenience.
 
-![QR 1](/kennythexu/images/QR1.JPG "QR Code 1")
+<p style="text-align:center;"><img src="/kennythexu/images/QR1.JPG" alt="QR Code 1"></p>
 
 <p style="text-align:center;"><img src="/kennythexu/images/QR2.JPG" alt="QR Code 2"></p>
 
@@ -53,6 +53,12 @@ And more...
 <p style="text-align:center;"><img src="/kennythexu/images/QR4.JPG" alt="QR Code 3"></p>
 
 <p style="text-align:center;"><img src="/kennythexu/images/QR3.JPG" alt="QR Code 4"></p>
+
+<p style="text-align:center;"><img src="/kennythexu/images/QR5.JPG" alt="QR Code 5"></p>
+
+<p style="text-align:center;"><img src="/kennythexu/images/QR6.JPG" alt="QR Code 6"></p>
+
+<p style="text-align:center;"><img src="/kennythexu/images/QR7.JPG" alt="QR Code 7"></p>
 
 Really though, too many.
 
