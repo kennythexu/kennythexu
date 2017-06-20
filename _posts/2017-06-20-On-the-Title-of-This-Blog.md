@@ -3,7 +3,7 @@ layout: post
 title: "On the Title of This Blog"
 author: "Kenny Xu"
 categories: journal
-tags: [life,meta]
+tags: [life,meta,china]
 image:
   feature: Balloons.jpg
   teaser: Balloons-teaser.jpg
