@@ -4,16 +4,16 @@ title: About
 ---
 >Play any little phrase they will hear it in some key—it may not be the right one, but the point is they will play it with a tonal sense. ... [T]he more I feel I know Schoenberg's music the more I believe he thought that way himself. ... And it isn't only the players; it's also the listeners. They will hear tonality in everything.
 
-<p align="right">— Peter Westergaard in "Conversation with Walter Piston," _Perspectives of New Music_.
+<p align="right">— Peter Westergaard in a "Conversation with Walter Piston"
 </p>
 
 "Atonal," according to _Collins English Dictionary_, refers to music __"without a tonal center or key."__
 
-Placed in the entire timeline of music, atonal music is more of a recent musical development, beginning only in the early 20th century. Composers like Arnold Schoenberg and Anton Webern informally led this small movement of music that went against the idea of _tonality_—against traditional Western "rules" of music, abandoning much of its rigid forms of cadence and resolve to its techniques of themes, motifs, contour, and more. The music sounded more ambiguous, less predictable. It was controversial. Polemical. Ridiculous. Contrarian. Bizarre.
+Placed within the entire timeline of music, atonal music is more of a recent musical development, beginning only in the early 20th century. Composers like Arnold Schoenberg and Anton Webern informally led this small movement of music that went against the idea of _tonality_—against traditional Western "rules" of music, abandoning much of its rigid forms of cadence and resolve and its techniques of themes, motifs, contour, and more. The music sounded more ambiguous, less predictable. It was controversial. Polemical. Ridiculous. Contrarian. Bizarre.
 
-To put it simply, it was an odd, rebellious movement. While twelve-tone serialism and atonality never quite made it mainstream, people began to slowly embrace some of its quirks. Today, you can find atonal influences in not only classical music, but much of jazz, film soundtracks, and even rock.
+To put it simply, it was an odd, rebellious movement. Twelve-tone serialism and atonality never quite made it mainstream, but people began to slowly embrace its quirks. Today, it's easy to find atonal influences in not only classical music, but much of jazz, film soundtracks, and even rock.
 
-<p align="center">— —.</p>
+<p align="center">— —</p>
 
 As I enter my young adulthood, fully inexperienced with a brain sponged for learning, I feel that I keep coming across a common theme: _no one really knows what they're doing_.
 
