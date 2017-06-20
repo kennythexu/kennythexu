@@ -15,10 +15,14 @@ To put it simply, it was an odd, rebellious movement. Twelve-tone serialism and 
 
 <p align="center">— —</p>
 
-As I enter my young adulthood, fully inexperienced with a brain sponged for learning, I feel that I keep coming across a common theme: _no one really knows what they're doing_.
+As I enter young adulthood, fully inexperienced with a brain sponged for learning, I feel that I keep coming across a common theme: _no one really knows what they're doing_.
 
-our lives may also seem. We may be wandering about without, maybe convincing ourselves of following some vague purpose that we've been told to do. Maybe we do it on purpose. Maybe on accident. But even with all this vagrancy and lack of direction, I feel that it's okay.
+Including me, of course.
 
-In music, we naturally want to hear order and resolve. We want to hear Fur Elise resolve on an A. We like to hear predictable patterns in music. It's just how we are wired. In the same way, I think our brains are wired to find a similar kind of order in our lives. Atonality isn't a bad thing.
+We may be wandering about without a plan, maybe convincing ourselves of following some vague purpose that we've been told to do. Maybe we do this on accident. Maybe on purpose. But even with all this vagrancy and atonality, I feel that it's all okay.
 
-And maybe one day, we'll all find our resolve ;)
+In music, we naturally want to hear tonality, some kind of order and resolve. We want to hear Fur Elise end on an A. We desire predictable patterns in both classical and pop music. It's just how we're wired. In the same way, I think we're also wired to find a similar sort of order in our lives.
+
+Atonality isn't a bad thing. It just means we're on the road, on some kind of journey for direction and purpose later in our life. We may have "atonal" moments in our life—some kind of misdirection or confusion—but ultimately, it's the last series of notes that matter.
+
+And one day, we'll find our own resolve.
