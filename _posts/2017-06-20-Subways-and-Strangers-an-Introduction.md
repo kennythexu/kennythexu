@@ -16,7 +16,7 @@ Anyway, every day I take the subway to work. Once at 9am, and then at 6pm rush h
 
 ### Music is my peaceful place.
 
-For much of my life—and probably many of you can relate as well—music and other forms of art have been the mirrors of expression and creativity in my life. It's a solace I can escape to and ignore what's going on outside, like the subway's cacophony of people and sounds.
+For much of my life—and probably many of you can relate as well—music and other forms of art have been the mirrors of expression and creativity in my life. It's a solace I can escape to and ignore what's going on outside, such as my daily subway commute and its cacophony of people and sounds.
 
 And it's not just listening to music. I can't remember a time when I couldn't read music. It's kind of like speaking English to me. I couldn't tell you a time when I couldn't speak. In the same way, I couldn't tell you a time that I couldn't read music. I picked up piano when I was around 6, and later I learned to play violin and guitar, making music a significant part of my life.
 
@@ -24,7 +24,7 @@ Every post, I'm gonna try to introduce a song with the post. Something that may 
 
 All I know is that I encourage you to put the song on in the background and join me in my thoughts. I've got plenty of time for introspection and reflection, and maybe you do too. Perhaps my publically-shared thoughts could be interesting, or helpful, or exciting, or surprising, or... whatever. I just appreciate you reading.
 
-Today's song is the well-known lead single off of Frank Ocean's _Blond_, "[Nikes](https://open.spotify.com/track/19YKaevk2bce4odJkP5L22 "Nikes")," where in and out of the throbbing bass line and snare delay you find lyrics like these:
+Today's song is the popular lead single off of Frank Ocean's _Blond_, "[Nikes](https://open.spotify.com/track/19YKaevk2bce4odJkP5L22 "Nikes")," where in and out of the throbbing bass line and snare delay you find lyrics like these:
 
 >We laid out on this wet floor / Away turf, no Astro / Mesmerized how the strobes glow / Look at all the people feet dance.
 
