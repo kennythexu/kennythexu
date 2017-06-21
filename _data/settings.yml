@@ -9,7 +9,6 @@ menu:
 - {name: 'About', url: 'about.html'}
 - {name: 'Writing', url: 'writing.html'}
 - {name: 'Subscribe', url: 'subscribe.html'}
-- {name: 'Contact', url: 'contact.html'}
 
 social:
 - {icon: 'twitter', link: 'https://twitter.com/xukenny'}

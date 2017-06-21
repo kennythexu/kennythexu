@@ -9,3 +9,5 @@ My name is Kenny Xu. First and foremost, I love to learn. Whether it be guitar o
 There's always more to learn, and for me, I get the chance to work on my writing and share my thoughts.
 
 As of now, I plan on writing just about anything, although probably with a focus on music, technology, and current events. Since it's a bit early for me in this "blog thing," I'd wager that this is all up for change. This whole thing's a work in progress for me. Anyhow, to start, you can read my [first blog post](../journal/Subways-and-Strangers-an-Introduction.html), a sort of introduction.
+
+If you want to reach me, I'm available at kxu2@nd.edu, [my Twitter](https://twitter.com/xukenny), or through any of the little social buttons in the top right corner of this website.
