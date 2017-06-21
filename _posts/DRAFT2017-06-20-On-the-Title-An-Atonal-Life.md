@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "On the Title of This Blog"
+title: "On the Title: An Atonal Life"
 author: "Kenny Xu"
 categories: journal
 tags: [life,meta,china]
