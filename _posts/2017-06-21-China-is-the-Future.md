@@ -15,7 +15,7 @@ image:
 <div style='text-align:center'><iframe src="https://open.spotify.com/embed?uri=spotify:track:2KHRENHQzTIQ001nlP9Gdc" width="300" height="80" frameborder="0" allowtransparency="true"></iframe>
 </div>
 
-A nation once known for its copycat companies, China is now leading the way in mobile innovation... particularly with these things called _super apps_.
+China is supposed to be the "copycat nation." Innovation was supposed to come from the West. But now, I'm not so sure if that's all accurate anymore. From what I can see, China is leading the way in mobile integration—particularly with these things called _super apps_.
 
 A **[super app](http://www.whatsonweibo.com/whatswechat/)** refers to a mobile app that does basically everything, from social media, group chats, and gaming to vendor payments, taxi booking, and bike rentals—all within their own respective ecosystems. In China, these apps are known in English as **WeChat** and **Alipay**.
 
