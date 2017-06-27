@@ -16,6 +16,7 @@ body {
   line-height: 1.75rem;
 }
 
+@media only screen and (min-width: 768px) {
 .post-container {
     margin: 20px 20px 0 0;
     overflow: auto
@@ -36,6 +37,7 @@ body {
 .post-title {
     font-weight: bold;
     font-size: 150%
+}
 }
 
 @media (max-width: 30em) {
