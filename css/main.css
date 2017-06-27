@@ -26,6 +26,10 @@ body {
     margin-bottom: 18px;
 }
 
+.post-content-caption {
+    font-size: 25px;
+}
+
 @media only screen and (min-width: 768px) {
 .post-container {
     margin: 20px 20px 0 0;
