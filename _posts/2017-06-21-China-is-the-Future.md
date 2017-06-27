@@ -12,7 +12,7 @@ image:
 ---
 >It is a bright object and it's obviously rotating because it's flashing, it's way out in the distance, certainly rotating in a very rhythmic fashion because the flashes come around almost on time [...] I don't know whether that does you any good, but there's something out there.
 
-<div style='text-align:center'><iframe src="https://open.spotify.com/embed?uri=spotify:track:2KHRENHQzTIQ001nlP9Gdc" width="300" height="80" frameborder="0" allowtransparency="true"></iframe>
+<div style='text-align:center'><iframe src="https://open.spotify.com/embed?uri=spotify:track:2KHRENHQzTIQ001nlP9Gdc&theme=white" width="300" height="80" frameborder="0" allowtransparency="true"></iframe>
 </div>
 
 China is supposed to be the "nation of copycats." Innovation was supposed to be present in only the exlusive West, birthed in the boardrooms of suits and white people. Then, the Chinese would wait patiently for something new until conjuring up their own knockoff. But now, I'm not so sure if that's all accurate anymore. From what I see, China is now leading innovation in a lot of industries—particularly with these things called **super apps**.

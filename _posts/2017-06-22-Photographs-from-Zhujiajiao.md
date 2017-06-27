@@ -12,7 +12,7 @@ image:
 ---
 >Midnight where we used to dance / Underneath the ugly halogen lamps / Oh, it all went away so fast / In a black out.
 
-<div style='text-align:center'><iframe src="https://open.spotify.com/embed?uri=spotify:track:1idBirsBGvCMsLvv4cTv7k" width="300" height="80" frameborder="0" allowtransparency="true"></iframe>
+<div style='text-align:center'><iframe src="https://open.spotify.com/embed?uri=spotify:track:1idBirsBGvCMsLvv4cTv7k&theme=white" width="300" height="80" frameborder="0" allowtransparency="true"></iframe>
 </div>
 
 Built over 1700s years ago, Zhujiajiao is an ancient watertown that's sprawling with beautiful waterways, bridges, and boats, reminiscent of Italy's famous Venice. I wouldn't go as far to put it on the same pedestal as Venice, but being just outside the city of Shanghai, it'd be foolish for me not to visit.
