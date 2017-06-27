@@ -28,7 +28,7 @@ image:
 
 <div class="post-container">
     <h2 class="post-title">Artist: Kanye West</h2>
-    <div class="post-thumb"><img src="/images/Ti Amo.jpg" alt="Ti Amo"><br><i>No introduction needed here... It's Kanye.</i></div>
+    <div class="post-thumb"><img src="/images/Ti Amo.jpg" alt="Ti Amo"></div>
     <div class="post-content">
         <p style="text-align:center;"><iframe src="https://open.spotify.com/embed?uri=spotify:artist:5K4W6rqBFWDnAN6FQUkS6x&theme=white" width="300" height="380" frameborder="0" allowtransparency="true"></iframe></p></div>
 </div>
