@@ -16,6 +16,10 @@ body {
   line-height: 1.75rem;
 }
 
+.post-thumb img {
+    margin-bottom: 30px;
+}
+
 @media only screen and (min-width: 768px) {
 .post-container {
     margin: 20px 20px 0 0;
