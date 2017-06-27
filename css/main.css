@@ -19,11 +19,11 @@ body {
 .post-thumb {
     text-align: center;
     width: 240px;
+    margin: auto;
 }
 
 .post-thumb img {
     margin-bottom: 18px;
-    vertical-align: middle;
 }
 
 @media only screen and (min-width: 768px) {
