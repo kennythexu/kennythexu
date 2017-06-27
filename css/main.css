@@ -17,7 +17,7 @@ body {
 }
 
 .post-thumb {
-    width: 240px;
+    width: auto;
     vertical-align: top;
     text-align: center;
 }
