@@ -16,8 +16,13 @@ body {
   line-height: 1.75rem;
 }
 
+.post-thumb {
+    vertical-align: top;
+    text-align: center;
+}
+
 .post-thumb img {
-    margin-bottom: 30px;
+    margin-bottom: 18px;
 }
 
 @media only screen and (min-width: 768px) {
