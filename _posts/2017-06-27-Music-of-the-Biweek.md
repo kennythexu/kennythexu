@@ -22,7 +22,7 @@ image:
 <div class="post-container">
     <h2 class="post-title">Song: "Closer" - Tegan and Sara</h2>
     <div class="post-thumb"><iframe src="https://open.spotify.com/embed?uri=spotify:track:4dTVgHZFPlaq9nPbLVVLSG&theme=white" width="250" height="330" frameborder="0" allowtransparency="true"></iframe></div>
-    <div class="post-content">
+    <div class="post-content-caption">
         <p style="text-align:center;"><i>A dancy electropop song called "Closer" that isn't by the Chainsmokers.</i></p></div>
 </div>
 

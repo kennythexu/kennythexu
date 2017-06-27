@@ -42,7 +42,12 @@ body {
     display: block
 }
 .post-content {
-    margin-left: 210px
+    margin-left: 210px;
+}
+.post-content-caption {
+    margin-left: 210px;
+    padding-top: 2em;
+    font-size: 25px;
 }
 .post-title {
     font-weight: bold;
