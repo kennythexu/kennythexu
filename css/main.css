@@ -17,12 +17,13 @@ body {
 }
 
 .post-thumb {
-    vertical-align: top;
     text-align: center;
+    width: 240px;
 }
 
 .post-thumb img {
     margin-bottom: 18px;
+    vertical-align: top;
 }
 
 @media only screen and (min-width: 768px) {
