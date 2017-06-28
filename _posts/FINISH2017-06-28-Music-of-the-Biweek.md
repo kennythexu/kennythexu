@@ -1,16 +1,18 @@
 ---
 layout: post
-title: "Music of the Biweek - 6/26"
+title: "Music of the Biweek - 6/29"
 author: "Kenny Xu"
 categories: journal
-tags: [shopping,china]
+tags: [music,biweek]
 image:
   feature: "Biweek_teaser.jpg"
   teaser: "Biweek_teaser.jpg"
   credit:
   creditlink: ""
 ---
-"Biweek" isn't a word. But they should make it a word because I can't think of another way to say "here are the highlights of the music that I've been listening to for the past two weeks." Anyhow, The album, song, and artist of the "biweek" will not overlap with each other. So for example, if Childish Gambino's "Redbone" was my song of the biweek, then I wouldn't use the album _Awaken, My Love!_ or Childish Gambino for any of the other categories.
+"Biweek" isn't a word. But they should make it a word because I haven't got another way to say "here are the highlights of the music that I've been listening to for the past two weeks."
+
+Anyhow, I thought I'd share what I've been listening to for the past two weeks, and maybe you'll find it interesting enough to give a listen. I'll set one ground rule for myself: the album, song, and artist of the "biweek" will not overlap with each other. So for example, if Childish Gambino's "Redbone" was my song of the biweek, then I wouldn't use the album _Awaken, My Love!_ or Childish Gambino for any of the other categories... just to force some variety upon myself. Well, here's what I got.
 
 <div class="post-container">
     <h2 class="post-title">Album: <i>Ti Amo</i> - Phoenix</h2>
@@ -27,8 +29,8 @@ image:
 </div>
 
 <div class="post-container">
-    <h2 class="post-title">Artist: Kanye West</h2>
-    <div class="post-thumb"><img src="/images/Ti Amo.jpg" alt="Ti Amo"><i>No introduction needed here... It's Kanye.</i></div>
+    <h2 class="post-title">Artist: Anderson .Paak</h2>
+    <div class="post-thumb"><img src="/images/Anderson.jpg" alt="Anderson"><i>From James Brown's funk and Kendrick Lamar's rasp, .Paak is wonderful. Yes, lawd!</i></div>
     <div class="post-content">
-        <p style="text-align:center;"><iframe src="https://open.spotify.com/embed?uri=spotify:artist:5K4W6rqBFWDnAN6FQUkS6x&theme=white" width="300" height="380" frameborder="0" allowtransparency="true"></iframe></p></div>
+        <p style="text-align:center;"><iframe src="https://open.spotify.com/embed?uri=spotify:artist:3jK9MiCrA42lLAdMGUZpwa&theme=white" width="300" height="380" frameborder="0" allowtransparency="true"></iframe></p></div>
 </div>
