@@ -80,7 +80,7 @@ h1 a {
 h1, h2, h3, h4, h5, h6 {
   font-family: "Quattrocento Sans", sans-serif;
   color: #333;
-  text-rendering: optimizeLegibility;
+  text-rendering: geometricPrecision;
 }
 
 a {
@@ -177,7 +177,7 @@ blockquote p {
   padding-bottom: 0.5rem;
   margin-bottom: 4rem;
   font-family: "Quattrocento Sans", sans-serif;
-  text-rendering: optimizeLegibility;
+  text-rendering: geometricPrecision;
 }
 
 .masthead a:hover {
@@ -214,7 +214,7 @@ blockquote p {
   color: #9a9a9a;
   font-family: 'Quattrocento Sans', sans-serif;
   font-size:0.8rem;
-  text-rendering: optimizeLegibility;
+  text-rendering: geometricPrecision;
 }
 
 @media (max-width: 30rem) {
@@ -244,7 +244,7 @@ blockquote p {
   overflow: hidden;
   font-family: 'Quattrocento Sans', sans-serif;
   text-align: center;
-  text-rendering: optimizeLegibility;
+  text-rendering: geometricPrecision;
 }
 
 .pagination a {
