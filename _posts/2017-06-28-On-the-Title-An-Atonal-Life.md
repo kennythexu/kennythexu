@@ -24,7 +24,7 @@ In context with music's long history, atonal music is really more of a recent de
 
 To put it simply, it was an odd contrarian movement. Full on twelve-tone serialism and atonality never quite made it mainstream, but people began to slowly embrace its parts and quirks. Over a hundred years later from its inception, we can pretty easily find atonal influences in not only orchestral music, but much of jazz, film soundtracks, and even rock.
 
-<p style="text-align:center;"><img src="/images/Jazz.JPG" alt="Jazz"></p>
+<p style="text-align:center;"><img src="/images/Jazz.jpg" alt="Jazz"></p>
 
 As I enter young adulthood, inexperienced with a brain primed and pumped for learning, I feel that I keep coming across a common theme: _no one really knows what they're doing_. That includes me, of course.
 
