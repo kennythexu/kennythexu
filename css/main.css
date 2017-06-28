@@ -81,6 +81,7 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "Quattrocento Sans", sans-serif;
   color: #333;
   text-rendering: geometricPrecision;
+  -webkit-font-feature-settings: "kern" 1;
 }
 
 a {
@@ -178,6 +179,7 @@ blockquote p {
   margin-bottom: 4rem;
   font-family: "Quattrocento Sans", sans-serif;
   text-rendering: geometricPrecision;
+  -webkit-font-feature-settings: "kern" 1;
 }
 
 .masthead a:hover {
