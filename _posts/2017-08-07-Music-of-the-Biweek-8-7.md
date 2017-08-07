@@ -10,7 +10,7 @@ image:
   credit:
   creditlink: ""
 ---
-Haha I'm too lazy. This "biweek" is more of the last month or so. Indulge your ears:
+Haha sorry, this "biweek" is more of the last month or so. Indulge your ears:
 
 <div class="post-container">
     <h2 class="post-title">Album: <i>The Archandroid</i> - Janelle Monáe</h2>
