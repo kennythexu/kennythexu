@@ -12,7 +12,7 @@ image:
 ---
 Today, my bike got stolen.
 
-I've only had it for about four months or so. Film classes were far away. Now, I have to walk.
+I've only had it for about six months or so. Film classes were far away. Now, I have to walk.
 
 Walking isn't so bad. I get up earlier. I get more exercise. I'll appreciate my surroundings more. What's life without walking?
 
