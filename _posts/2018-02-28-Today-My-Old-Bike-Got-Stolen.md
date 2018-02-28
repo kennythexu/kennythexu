@@ -10,6 +10,11 @@ image:
   credit:
   creditlink: ""
 ---
+>Gone now / Thinking what's gone now / Like a part of me walked out, oh
+
+<div style='text-align:center'><iframe src="https://open.spotify.com/embed?uri=spotify:track:7taGa7J1rarzpRgukrnkMk&theme=white" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+</div>
+
 Today, my bike got stolen.
 
 I've only had it for about six months or so. Film classes were far away. Now, I have to walk.
