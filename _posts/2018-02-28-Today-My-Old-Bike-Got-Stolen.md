@@ -17,7 +17,7 @@ image:
 
 Today, my bike got stolen.
 
-I've only had it for six months or so. Film classes were far away. Now, I have to walk.
+I've only had it six months or so. Film classes were far away. Now, I have to walk.
 
 Walking isn't so bad. I get up earlier. I get more exercise. I'll probably appreciate my surroundings more. Anyways, what's life without walking?
 
@@ -25,7 +25,7 @@ But it happened because I left my bike unlocked outside. The U-lock has been jam
 
 —it was gone.
 
-I'm not mad. It was an old, shitty bike. I paid a stranger forty bucks for it. The brakes barely work. I've almost hit someone because of it. I mean, it's a blessing!
+I'm not mad. It was an old, shitty bike. I paid a stranger forty bucks for it. The brakes barely work. I've almost hit someone because of it. I mean, it's a blessing really!
 
 I'll find another. One whose wheels don't have gashes. One whose handles aren't crooked. One whose chain doesn't pop off all the time. One whose brakes don't squeal. One who stops me before the curb knocks the smile off of me. I know I'll be much happier.
 
